@@ -199,12 +199,12 @@ body {
 }
 .pie {
   clear: both;
-  text-align: center;
+  text-align: right justify;
   padding: 5px;
   font-weight: bold;
-  color: inherit;
-  font-family: verdana, fantasy;
-  font-size: 12;
+  color: whitesmoke;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 10;
   margin-top: 5px;
   border-top:1px solid #999999;
   background: rgba(22, 136, 167, 1);
