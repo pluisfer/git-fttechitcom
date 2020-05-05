@@ -156,10 +156,10 @@ body {
 
 
 .servicio {
-  color: rgb(184, 144, 184);
+  color: rgb(46, 21, 46);
   text-align: center;
   padding: 10px 0;
-  text-shadow: 2px 2px 8px #4e4661;
+  text-shadow: 1px 1px 6px #4e4661;
 }
 
 .efecto:hover {
@@ -202,10 +202,11 @@ body {
   text-align: center;
   padding: 5px;
   font-weight: bold;
-  color: white;
+  color: inherit;
   font-family: verdana, fantasy;
   font-size: 12;
-  border-top: 2px solid #999999;
+  margin-top: 5px;
+  border-top:1px solid #999999;
   background: rgba(22, 136, 167, 1);
   background: -moz-linear-gradient(
     left,
@@ -251,5 +252,9 @@ body {
     rgba(21, 96, 117, 0.97) 74%
   );
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1688a7', endColorstr='#156075', GradientType=1 );
+}
+
+color-text-h3{
+  color:white;
 }
 
