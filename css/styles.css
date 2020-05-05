@@ -15,6 +15,14 @@ body {
   background: white;
   font-family: verdana;
 }
+
+
+.header {
+  background: url(../img/vps-cloud.png) no-repeat center;
+  background-size: cover;
+  min-height: 100vh;
+}
+
 .headerfo {
   background: url(../img/pexels-photo-373543.png) no-repeat center;
   background-size: cover;
@@ -76,25 +84,33 @@ body {
 /*estas son para definir clases*/
 
 .title {
-  color: black whitesmoke;
-  margin: 0 auto;
+  color: rgb(167, 185, 224);
+  margin-top: 150px;
   text-align: center;
   font-weight: 700;
   font: italic bold 50px Georgia, Serif;
   text-shadow: 0.1em 0.1em 0.2em black;
-  padding-top: 50px;
+  padding-bottom: 15px;
 }
 
 .frase {
   text-align: center;
-  font: italic bold 25px Georgia, Serif;
-  padding: 50px 0px 0px 0px;
+  font: italic bold 30px Georgia, Serif;
+  padding-top: 30px;
+  margin-top:20px ;
+  color: #4e4661;
+  font-size: 2.5rem;
+
 }
 
 .premisa {
   text-align: center;
-  font: italic bold 20px Georgia, Serif;
+  font: italic bold 25px Georgia, Serif;
   padding: 15px 0px 50px 0px;
+  margin-left: 20%;
+  margin-right: 20%;
+  color: #4e4661;
+  font-size: 1.5rem;
 }
 
 .bold {
@@ -108,22 +124,42 @@ body {
 .cuerpo {
   background: url(../img/schedule-planning-startup-launching-7376.jpg)no-repeat center;
   overflow: hidden;
+  height: 600px;
+  margin-top: 20px;
 }
 
-.caja {
-  float: left;
-  width: 380;
-  margin: 50px;
+.text-servicio{
+  font-size: 4rem;
+  text-shadow: 2px 2px 8px rgb(173, 59, 173);
+  padding-bottom: 20px;
+  margin-bottom: .5rem;
+  margin-top: 5rem;
+  font-weight: 500;
+  line-height: 1.2;
+  font-family: Arial, Helvetica, sans-serif;
+  color: black;
+  text-align: center;
+  display: block;
+
 }
 
 .subtitulo {
   background: white;
+  border-radius: 160px
 }
 
+.caja {
+  float: left;
+  margin: 50px;
+}
+
+
+
 .servicio {
-  color: black;
+  color: rgb(184, 144, 184);
   text-align: center;
   padding: 10px 0;
+  text-shadow: 2px 2px 8px #4e4661;
 }
 
 .efecto:hover {
@@ -135,7 +171,7 @@ body {
   width: 300px;
   height: 200px;
   border-radius: 160px;
-  border: 10px solid rgb(212, 209, 209);
+  border: 5px solid rgb(126, 75, 75);
   padding: 0;
 }
 
@@ -215,33 +251,4 @@ body {
     rgba(21, 96, 117, 0.97) 74%
   );
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1688a7', endColorstr='#156075', GradientType=1 );
-}
-
-/* esto es para hacer una barra de menu*/
-#button {
-  padding: 0;
-}
-
-#button li {
-  display: inline;
-}
-
-#button li a {
-  font-family: Arial;
-  font-size: 14px;
-  text-decoration: none;
-  float: left;
-  cursor: pointer;
-  padding: 10px;
-  background: #68aae0;
-  color: #fff;
-  box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24),
-    0 17px 50px 0 rgba(0, 0, 0, 0.16);
-  transition-duration: 0.4;
-}
-
-.header {
-  background: url(../img/vps-cloud.png) no-repeat center;
-  background-size: cover;
-  min-height: 100vh;
 }
