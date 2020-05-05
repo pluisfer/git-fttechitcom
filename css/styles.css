@@ -258,3 +258,10 @@ color-text-h3{
   color:white;
 }
 
+.box-aling{
+  float: none;
+  text-align: center;
+  -webkit-text-size-adjust: 100%;
+  -webkit-column-count: 3;
+  -webkit-column-gap: 1.25rem;
+}
