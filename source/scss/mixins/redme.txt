@@ -1,0 +1,2 @@
+aqui van las funciones, las cuales pueden ser las de diseño responsive, layaout con grid o flexbox
+

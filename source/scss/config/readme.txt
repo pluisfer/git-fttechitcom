@@ -1,0 +1,1 @@
+en este archivo van las funciones variables fuentes fijas.
