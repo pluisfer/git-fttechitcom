@@ -111,6 +111,7 @@ img {
 .hero-logo {
   height: 40vmin;
   pointer-events: none;
+  opacity: 30%;
 }
 
 .logo {
@@ -148,13 +149,13 @@ img {
 
 
   .btn-danger {
-  font-size: 1.5rem;
-  margin-top: 20px;
-  padding-left: 60px;
-  padding-right: 60px;
-  padding-top: 10px;
-  padding-bottom: 10px;
-  background-color: #c66666;
-  border-color: #c66666;
-} 
+    font-size: 1.5rem;
+    margin-top: 20px;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #c66666;
+    border-color: #c66666;
+  }
 }
