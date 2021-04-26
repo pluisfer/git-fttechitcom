@@ -109,7 +109,8 @@ img {
 }
 
 .hero-logo {
-  height: 40vmin;
+  height: 25vmin;
+  width: 25vw;
   pointer-events: none;
   opacity: 30%;
 }
@@ -158,5 +159,12 @@ img {
     padding-bottom: 10px;
     background-color: #c66666;
     border-color: #c66666;
+  }
+
+  .app-footer {
+    font-size: .5em;
+    align-content: center;
+    align-items: center;
+    text-align: center;
   }
 }
