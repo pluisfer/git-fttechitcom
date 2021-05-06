@@ -60,7 +60,7 @@ a {
 }
 
 .hero-image {
-  min-height: 70vh;
+  min-height: 100vh;
   background-image: url(../assets/img/imagenBase.png);
   background-repeat: no-repeat;
   background-size: cover;
@@ -113,6 +113,7 @@ img {
   width: 25vw;
   pointer-events: none;
   opacity: 30%;
+  margin: 25px;
 }
 
 .logo {
@@ -194,5 +195,9 @@ img {
     align-content: center;
     align-items: center;
     text-align: center;
+  }
+
+  .hero-image p {
+    margin: 10px;
   }
 }
