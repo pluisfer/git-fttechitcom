@@ -1,11 +1,10 @@
 # git-fttechitcom ![GitHub contributors](https://img.shields.io/github/contributors/pluisfer/git-fttechitcom)
 
-Pagina en donde vez el uso completo de Bootstrap
-En esta pagina podemos ver el uso de botones y scroll
+- Contribute to this page to learn more about HTML CSS and Javascript.
 
 ## Content
 
-- Este pagina te muestra todo lo referente a la prestación de servicios de Electrónica , Desarrollo web , telecomunicaciones y sistemas.
+- This page shows you everything related to the provision of services in Electronics, Web Development, Telecommunications and Systems.
 
 ## Demo
 
