@@ -5,16 +5,14 @@ En esta pagina podemos ver el uso de botones y scroll
 
 ## Content
 
-el contenido esta en proceso
+- Este pagina te muestra todo lo referente a la prestación de servicios de Electrónica , Desarrollo web , telecomunicaciones y sistemas.
 
 ## Demo
 
 If you want to see the demo of this proyect deployed, you can visit [Demo of the proyect](https://github.com/pluisfer/)
 
-## How to clone
+### Download & install
 
-If you have special requirements, you have to list it step by step.
+Download:
 
-- Clone project
-- instalar dependencias
-- verificar archivo index
+[Github download](https://github.com/pluisfer/git-fttechitcom)
